@@ -1,4 +1,4 @@
-Some fun projects to help me explore my interests!
+Compilers and stuff!
 
 <!---
 bababuck/bababuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
